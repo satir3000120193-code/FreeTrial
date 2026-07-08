@@ -1,0 +1,20 @@
+#profile-title: CornVpn
+
+#profile-update-interval: 1
+
+#support-url: https://t.me/tilt3ss
+
+#announce: 🚀 Срок окончания подписки в боте @CornVpnRobot⭐. Обход белых списков - активен ✅
+
+#subscription-userinfo: upload=0; download=0; total=10995116277760; expire=0
+vless://4ef6e1cd-4410-4dfd-b03c-aca49aebefb7@se.datanode-internal.net:443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=abbcd128#%F0%9F%9A%80%20Wi-Fi%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0.%F0%9F%9A%80
+vless://5a2c12ea-9244-4631-b6a6-f6bc244c4439@84.201.173.79:80?security=&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+vless://602ddd62-eb6a-4e52-b51a-235e85efcfe1@82.26.93.60:443?security=reality&encryption=none&pbk=sEaUAwp3_NW7OYP34CnqjKkLlWkJyQpUR7BCRN8CCx0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=01#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90
+vless://602ddd62-eb6a-4e52-b51a-235e85efcfe1@109.122.197.231:443?security=reality&encryption=none&pbk=sEaUAwp3_NW7OYP34CnqjKkLlWkJyQpUR7BCRN8CCx0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=01#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://602ddd62-eb6a-4e52-b51a-235e85efcfe1@147.45.61.23:443?security=reality&encryption=none&pbk=sEaUAwp3_NW7OYP34CnqjKkLlWkJyQpUR7BCRN8CCx0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=01#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
+vless://602ddd62-eb6a-4e52-b51a-235e85efcfe1@213.176.73.241:443?security=reality&encryption=none&pbk=sEaUAwp3_NW7OYP34CnqjKkLlWkJyQpUR7BCRN8CCx0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=01#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+vless://602ddd62-eb6a-4e52-b51a-235e85efcfe1@132.243.231.73:443?security=reality&encryption=none&pbk=sEaUAwp3_NW7OYP34CnqjKkLlWkJyQpUR7BCRN8CCx0&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=01#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F
+vless://583d0b11-0c5d-418a-93a7-23d4ab7a74e7@46.254.17.58:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4
+vless://e3250363-99a0-4778-acac-de26c238b7bd@46.182.24.89:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4
+vless://5a2c12ea-9244-4631-b6a6-f6bc244c4439@46.254.17.58:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4
+vless://e3250363-99a0-4778-acac-de26c238b7bd@31.129.42.56:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4
