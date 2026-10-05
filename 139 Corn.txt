@@ -1,4 +1,4 @@
-#profile-title: CornVpn FREE
+#profile-title: CornVpn
 
 #profile-update-interval: 1
 
